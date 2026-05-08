@@ -21,10 +21,10 @@ More specifically, we look at:
 
 ## Authors
 
-| Name | NetID | Main Work |
-|------|-------|-----------|
-| Charles Timmes | cwt32 | NLP pipeline and FOMC text collection |
-| Raj Shah | ras637 | Yield data, modeling, evaluation, and repo organization |
+| Name | NetID |
+|------|-------|
+| Charles Timmes | cwt32 |
+| Raj Shah | ras637 |
 
 ## GitHub Repository
 
