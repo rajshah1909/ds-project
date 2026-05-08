@@ -54,7 +54,6 @@ ds-project/
 ├── 04_modeling.py
 ├── FOMC_NLP_Colab.ipynb
 ├── README.md
-├── SCHEMA.md
 ├── requirements.txt
 │
 └── fomc_nlp/
